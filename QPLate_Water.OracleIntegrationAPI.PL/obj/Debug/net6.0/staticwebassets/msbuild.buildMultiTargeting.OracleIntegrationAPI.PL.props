@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OracleIntegrationAPI.PL.props" />
+</Project>

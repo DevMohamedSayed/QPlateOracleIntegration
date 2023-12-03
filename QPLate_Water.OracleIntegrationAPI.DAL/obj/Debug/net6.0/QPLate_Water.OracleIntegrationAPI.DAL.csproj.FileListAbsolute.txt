@@ -1,0 +1,14 @@
+E:\OracleIntegrationAPI\QPLate_Water.OracleIntegrationAPI.DAL\obj\Debug\net6.0\QPLate_Water.OracleIntegrationAPI.DAL.csproj.AssemblyReference.cache
+E:\OracleIntegrationAPI\QPLate_Water.OracleIntegrationAPI.DAL\obj\Debug\net6.0\QPLate_Water.OracleIntegrationAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\OracleIntegrationAPI\QPLate_Water.OracleIntegrationAPI.DAL\obj\Debug\net6.0\QPLate_Water.OracleIntegrationAPI.DAL.AssemblyInfoInputs.cache
+E:\OracleIntegrationAPI\QPLate_Water.OracleIntegrationAPI.DAL\obj\Debug\net6.0\QPLate_Water.OracleIntegrationAPI.DAL.AssemblyInfo.cs
+E:\OracleIntegrationAPI\QPLate_Water.OracleIntegrationAPI.DAL\obj\Debug\net6.0\QPLate_Water.OracleIntegrationAPI.DAL.csproj.CoreCompileInputs.cache
+E:\OracleIntegrationAPI\QPLate_Water.OracleIntegrationAPI.DAL\bin\Debug\net6.0\QPLate_Water.OracleIntegrationAPI.DAL.deps.json
+E:\OracleIntegrationAPI\QPLate_Water.OracleIntegrationAPI.DAL\bin\Debug\net6.0\QPLate_Water.OracleIntegrationAPI.DAL.runtimeconfig.json
+E:\OracleIntegrationAPI\QPLate_Water.OracleIntegrationAPI.DAL\bin\Debug\net6.0\QPLate_Water.OracleIntegrationAPI.DAL.dll
+E:\OracleIntegrationAPI\QPLate_Water.OracleIntegrationAPI.DAL\bin\Debug\net6.0\QPLate_Water.OracleIntegrationAPI.DAL.pdb
+E:\OracleIntegrationAPI\QPLate_Water.OracleIntegrationAPI.DAL\obj\Debug\net6.0\QPLate_Water.OracleIntegrationAPI.DAL.dll
+E:\OracleIntegrationAPI\QPLate_Water.OracleIntegrationAPI.DAL\obj\Debug\net6.0\refint\QPLate_Water.OracleIntegrationAPI.DAL.dll
+E:\OracleIntegrationAPI\QPLate_Water.OracleIntegrationAPI.DAL\obj\Debug\net6.0\QPLate_Water.OracleIntegrationAPI.DAL.pdb
+E:\OracleIntegrationAPI\QPLate_Water.OracleIntegrationAPI.DAL\obj\Debug\net6.0\QPLate_Water.OracleIntegrationAPI.DAL.genruntimeconfig.cache
+E:\OracleIntegrationAPI\QPLate_Water.OracleIntegrationAPI.DAL\obj\Debug\net6.0\ref\QPLate_Water.OracleIntegrationAPI.DAL.dll

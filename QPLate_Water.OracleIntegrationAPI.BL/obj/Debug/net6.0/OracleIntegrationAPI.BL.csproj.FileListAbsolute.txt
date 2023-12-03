@@ -1,0 +1,15 @@
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\obj\Debug\net6.0\OracleIntegrationAPI.BL.csproj.AssemblyReference.cache
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\obj\Debug\net6.0\OracleIntegrationAPI.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\obj\Debug\net6.0\OracleIntegrationAPI.BL.AssemblyInfoInputs.cache
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\obj\Debug\net6.0\OracleIntegrationAPI.BL.AssemblyInfo.cs
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\obj\Debug\net6.0\OracleIntegrationAPI.BL.csproj.CoreCompileInputs.cache
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\bin\Debug\net6.0\OracleIntegrationAPI.BL.deps.json
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\bin\Debug\net6.0\OracleIntegrationAPI.BL.dll
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\bin\Debug\net6.0\OracleIntegrationAPI.BL.pdb
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\bin\Debug\net6.0\OracleIntegrationAPI.DAL.dll
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\bin\Debug\net6.0\OracleIntegrationAPI.DAL.pdb
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\obj\Debug\net6.0\OracleIntegrationAPI.BL.csproj.CopyComplete
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\obj\Debug\net6.0\OracleIntegrationAPI.BL.dll
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\obj\Debug\net6.0\refint\OracleIntegrationAPI.BL.dll
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\obj\Debug\net6.0\OracleIntegrationAPI.BL.pdb
+E:\OracleIntegrationAPI\OracleIntegrationAPI.BL\obj\Debug\net6.0\ref\OracleIntegrationAPI.BL.dll
